@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "city": "Mumbai",
+      "occupation": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "Mark",
+      "city": "Banglore",
+      "occupation": "Musician"
+    },
+    {
+      "name": "Raj",
+      "city": "Delhi",
+      "occupation": "Editor",
+      "id": 4
+    },
+    {
+      "name": "Jessie",
+      "city": "New York",
+      "occupation": "Hacker",
+      "id": 5
+    }
+  ]
+}

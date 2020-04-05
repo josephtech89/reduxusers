@@ -1,0 +1,17 @@
+.userlist-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.userlist-container div{
+    flex-basis: 48%;
+}
+
+.form-container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container form div{
+    align-self: flex-start;
+}
